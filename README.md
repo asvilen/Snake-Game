@@ -25,8 +25,6 @@ Welcome to the nostalgic world of Snake Game, where you become the fearless snak
 
 🧩 **Strategy and Reflexes:** As the game speeds up and the snake grows, you'll need a blend of quick reflexes and strategic thinking to avoid collisions and stay in the game.
 
-![image](https://github.com/asvilen/Snake-Game/assets/47661156/1dcecfde-e9ce-479b-8c08-de545f6d5bdd)
-
 ## Installation
 
 1. Clone this repository to your local machine.
@@ -44,9 +42,9 @@ Welcome to the nostalgic world of Snake Game, where you become the fearless snak
 
 Your top score is meticulously tracked and stored in the `data.txt` file. Will you beat your own record or challenge your friends to top it?
 
-## Contributing
+## Screenshot
 
-Contributions to this project are welcomed with open arms! Whether you have coding skills to enhance the game or ideas for new features, feel free to submit a pull request and become part of our snake-charming community.
+![image](https://github.com/asvilen/Snake-Game/assets/47661156/1dcecfde-e9ce-479b-8c08-de545f6d5bdd)
 
 ## License
 

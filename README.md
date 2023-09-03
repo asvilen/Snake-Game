@@ -4,7 +4,6 @@ Welcome to the nostalgic world of Snake Game, where you become the fearless snak
 
 ## Table of Contents
 - [Game Overview](#game-overview)
-- [Features](#features)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [High Score](#high-score)

@@ -1,8 +1,5 @@
 # Snake Game: Slither to Victory 🐍🍎
 
-![image](https://github.com/asvilen/Snake-Game/assets/47661156/1dcecfde-e9ce-479b-8c08-de545f6d5bdd)
-
-
 Welcome to the nostalgic world of Snake Game, where you become the fearless snake charmer! Get ready to slither, munch, and outmaneuver your way to victory in this classic arcade game with a Pythonic twist. Let the adventure begin!
 
 ## Table of Contents
@@ -27,6 +24,8 @@ Welcome to the nostalgic world of Snake Game, where you become the fearless snak
 🚀 **Responsive Controls:** Seamlessly control your snake's movements with precision using the arrow keys. The snake's responsiveness makes the gameplay addictive and engaging.
 
 🧩 **Strategy and Reflexes:** As the game speeds up and the snake grows, you'll need a blend of quick reflexes and strategic thinking to avoid collisions and stay in the game.
+
+![image](https://github.com/asvilen/Snake-Game/assets/47661156/1dcecfde-e9ce-479b-8c08-de545f6d5bdd)
 
 ## Installation
 

@@ -8,7 +8,7 @@ Welcome to the nostalgic world of Snake Game, where you become the fearless snak
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [High Score](#high-score)
-- [Contributing](#contributing)
+- [Screenshot](#screenshot)
 - [License](#license)
 
 ## 🕹️ Game Overview

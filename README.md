@@ -1,6 +1,7 @@
 # Snake Game: Slither to Victory 🐍🍎
 
-![Snake Game](snake_game.gif)
+![image](https://github.com/asvilen/Snake-Game/assets/47661156/1dcecfde-e9ce-479b-8c08-de545f6d5bdd)
+
 
 Welcome to the nostalgic world of Snake Game, where you become the fearless snake charmer! Get ready to slither, munch, and outmaneuver your way to victory in this classic arcade game with a Pythonic twist. Let the adventure begin!
 
